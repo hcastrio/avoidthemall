@@ -143,3 +143,5 @@ function update() {
     end();
   }
 }
+
+addEventListener("load", onLoad);
